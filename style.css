@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+  }
+
+
+body{
+
+    background-color: blanchedalmond;
+}
+
+h1 {
+
+    text-align: center;
+}
+
+form {
+    text-align: center;
+}
+
+.hidden {
+
+    display: none; 
+}
+
+img {
+
+    height: 200px;
+}
